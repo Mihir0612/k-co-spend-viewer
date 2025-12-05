@@ -1,0 +1,8 @@
+[
+{"date":"2025-01-01","cloud_provider":"AWS","service":"EC2","team":"Core","env":"prod","cost_usd":1234.56},
+{"date":"2025-01-01","cloud_provider":"GCP","service":"BigQuery","team":"Data","env":"staging","cost_usd":456.78},
+{"date":"2025-02-01","cloud_provider":"AWS","service":"S3","team":"Web","env":"prod","cost_usd":200.00},
+{"date":"2025-02-01","cloud_provider":"GCP","service":"Compute Engine","team":"Core","env":"dev","cost_usd":50.5},
+{"date":"2025-03-01","cloud_provider":"AWS","service":"RDS","team":"Data","env":"prod","cost_usd":800.0},
+{"date":"2025-03-01","cloud_provider":"GCP","service":"Cloud Storage","team":"Web","env":"staging","cost_usd":120.0}
+]
